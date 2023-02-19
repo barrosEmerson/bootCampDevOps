@@ -1,2 +1,1 @@
 function teste()
-function novaFuncao()
